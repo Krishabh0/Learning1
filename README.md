@@ -1,1 +1,1 @@
-# Learning1
+Stone Paper Scissor Game
